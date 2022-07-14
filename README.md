@@ -11,7 +11,7 @@ Welcome to my Github page! I am Cesar and I am currently finishing my Higher Deg
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Higher Degree in Multiplatform Application Development
+- Studying Computer Engineering
 - Learning a little more about cybersecurity every day
 
 
