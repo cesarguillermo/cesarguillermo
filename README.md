@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cesarguillermo)
 
 
-Welcome to my Github page! I am Cesar and I am currently finishing my Higher Degree in Multiplatform Application Development!  
+Welcome to my Github page! I am Cesar and I am currently studying computer engineering!  
 
 
 
