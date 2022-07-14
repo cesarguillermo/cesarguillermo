@@ -2,7 +2,6 @@
 ### This is César  Gordillo!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cesarguillermo)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-guillermo-gordillo-81943b1b3/)
 
 
 Welcome to my Github page! I am Cesar and I am currently finishing my Higher Degree in Multiplatform Application Development!  
