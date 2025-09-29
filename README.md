@@ -38,7 +38,8 @@ Actualmente me esfuerzo en **programar todos los días** y mejorar mis conocimie
 ---
 
 ## 📌 Proyectos destacados en Android  
-- 📱 [ToDo App](https://github.com/cesarguillermo/todo-app-flutter) – Aplicación de notas realizada con **Flutter**  
+- 📱 [PokeTCGApp](https://github.com/cesarguillermo/PokeTCGApp) – Aplicación de explorar y buscar cartas del Trading Card Game (TCG) de Pokémon realizada con **Kotlin ** y **Jetpack Compose**
+- 📱 [ToDo App](https://github.com/cesarguillermo/todo-app-flutter) – Aplicación de notas realizada con **Flutter**
 - 🔗 [Más proyectos...](https://github.com/cesarguillermo?tab=repositories)  
 
 ---
