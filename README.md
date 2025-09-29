@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 Sobre mí  
-Soy **estudiante de Ingeniería Informática** con gran interés en el **desarrollo Android** 📱.  
+Soy **un programador** con gran interés en el **desarrollo Android** 📱.  
 Actualmente me esfuerzo en **programar todos los días** y mejorar mis conocimientos en Kotlin, Android Studio y librerías de Jetpack.  
 
 ---
@@ -19,7 +19,6 @@ Actualmente me esfuerzo en **programar todos los días** y mejorar mis conocimie
 
 ## 💪 Retos personales  
 - 💻 Programar proyectos Android a diario  
-- 📚 Seguir avanzando en mi carrera de Ingeniería Informática  
 - 🏋️ Hacer ejercicio al menos 3 veces por semana  
 
 ---
